@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import time
 
-path = r'C:\Users\ginuram\Desktop\Dekstop\30DaysofPython\OpenCV\Assests\base.jpg'
+path = r'C:\Users\Desktop\Dekstop\30DaysofPython\OpenCV\Assests\base.jpg'
 
 def empty(a):
     pass
